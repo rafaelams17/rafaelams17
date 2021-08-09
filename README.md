@@ -1,4 +1,4 @@
-Oi, tudo bem?! Eu sou Rafaela Santos 👋
+# Oi, tudo bem?! Eu sou Rafaela Santos 👋
 
 - 🔭 Hoje estou procurando um emprego, que envolva front-end
 - 🌱 Estudando Javascript, CSS, HTML e aprofundando em programação
