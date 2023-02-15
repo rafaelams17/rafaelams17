@@ -1,7 +1,7 @@
 # Oi, tudo bem?! Eu sou Rafaela Santos 👋
 
-- 🔭 Atualmente estou em busca de uma oportunidade que envolva front-end.
-- 🌱 Estudando Javascript, HTML, CSS e aprofundando em programação.
+- 🔭 Desenvolvendo aplicações com Vue.js, TyScript, Tríade Web, Quasar Framework, PostgreSQL, Nestjs e Prisma.
+- 🌱 Aprendendo um pouco mais a cada dia.
   
   <div>
   <a href="https://github.com/rafaelams17">
