@@ -1,6 +1,6 @@
 # Oi, tudo bem?! Eu sou Rafaela Santos 👋
 
-- 🔭 Desenvolvendo aplicações com Vue.js, TyScript, Tríade Web, Quasar Framework, PostgreSQL, Nestjs e Prisma.
+- 🔭 Desenvolvendo aplicações com Vue.js, TypeScript, Tríade Web, Quasar Framework, PostgreSQL, Nestjs e Prisma.
 - 🌱 Aprendendo um pouco mais a cada dia.
   
   <div>
